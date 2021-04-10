@@ -3,8 +3,8 @@ __author__ = 'ceshiren_szr'
 __time__ = '2021/4/10 8:00'
 """
 import pytest
-from Calculator import Calculator
 import yaml
+from Calculator import Calculator
 
 class TestCal:
 
